@@ -1,0 +1,146 @@
+/*-----------*/
+/* DASHBOARD */
+/*-----------*/
+.show {
+  display: block !important;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.logo {
+  height: 3em;
+  width: 5em;
+}
+
+.chip {
+  margin-top: 3em;
+}
+
+.center-justified {
+  display: inline-block;
+  text-align: justify;
+  -moz-text-align-last: left;
+  text-align-last: left;
+  margin: 0 auto;
+}
+
+.info-header {
+  position: relative;
+  font-size: 2em;
+}
+
+.info-circle {
+  border: 4px solid #fff;
+  height: 100px;
+  width: 100px;
+  line-height: 4em;
+}
+
+.info-text {
+  text-align: justify;
+  margin-left: 34vw;
+}
+
+.profile-section {
+  background: orangered;
+  color: #fff;
+  text-align: center;
+}
+
+.profile-section ul {
+  line-height: 3em;
+  margin-top: 1em;
+}
+
+.profile-section h5 {
+  margin-top: 1em;
+}
+
+.profile-snapshot img {
+  width: 300px;
+  height: 300px;
+}
+
+nav {
+  background: transparent !important;
+}
+.navbar-fixed {
+  position: fixed !important;
+}
+.section {
+  padding: -50px;
+}
+
+.intro-section {
+  background: #636363;
+  color: #fff;
+  height: 110vh;
+}
+.intro-wrapper {
+  text-align: center;
+}
+.intro-wrapper i {
+  font-size: 2em;
+}
+
+.icon-block {
+  width: 300px;
+}
+.icon-block:hover {
+  background: rgb(138, 137, 137);
+}
+.content-wrapper {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.content-wrapper h1 {
+  font-family: "Lato", sans-serif;
+}
+
+.breadcrumb-nav {
+  position: absolute;
+  right: 3vw;
+  top: 30vh;
+  display: inline-block;
+  z-index: 999;
+}
+
+.breadcrumb-nav .nav-btn {
+  margin-bottom: 2em;
+}
+
+.nav-btn {
+  width: 2.5em;
+  height: 2.5em;
+}
+
+.fin-section {
+  background-color: #b5cd5a;
+}
+.fin-section .content-wrapper {
+  color: #fff;
+}
+
+.env-section {
+  background-color: #3dadd9;
+}
+.env-section .content-wrapper {
+  color: #fff;
+}
+
+.health-section {
+  background-color: #c72a41;
+}
+.health-section .content-wrapper {
+  color: #fff;
+}
+
+.rewards-section {
+  background-color: #ffd256;
+}
+.rewards-section .content-wrapper {
+  color: #000;
+}
